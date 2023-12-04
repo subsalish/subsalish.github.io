@@ -1,2 +1,0 @@
-# subsalish.github.io
-site
